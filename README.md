@@ -2,9 +2,9 @@
 
 General notes on my brewing history / experiments
 
-In the [brews] dir I will keep the different brews I have tried
+In the [brews]:brews dir I will keep the different brews I have tried
 
-In the [history] I will keep a record of all the brews
+In the [history]:history I will keep a record of all the brews
 
 Brewing setup
 
