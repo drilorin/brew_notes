@@ -8,9 +8,9 @@ In the [history](history) I will keep a record of all the brews
 
 Brewing setup:
 
- - Brewing pot: Brewster NG
+ - Brewer: Brewster NG
  - Pump: Brewolution TL-B08H-12-0703-W
- - Chiller: Plate chiller - Maltbazaren 12 plates
+ - Cooler: Plate chiller - Maltbazaren 12 plates
 
 
 ## Brewchart
