@@ -23,7 +23,7 @@ flowchart TD
   E -- Mashing --> C;
   E -- Cooling (Wort) --> F;
   F[Cooler] -- Wort --> G[(Fermenter)];
-  F -- Water --> H[Drain];
+  F -- Water --> H[(Drain)];
 
 
 
