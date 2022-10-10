@@ -16,8 +16,8 @@ https://mermaid-js.github.io/mermaid/#/flowchart
 ```mermaid
 flowchart TD
   A[Water from mains] --> B;
-  B[(Brewer)] --> C;
+  B{(Brewer)] --> C;
   C[Pump] --> D;
-  D[Cooler};
+  D[Cooler];
 
 
