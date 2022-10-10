@@ -1,5 +1,5 @@
 # Brew 1:
-
+```
 Brew Master:
 Date:
 
@@ -14,7 +14,9 @@ Ph:
 Taste:
 Room temperature:
 Music:
+```
 
+```
 Bottled: 
   - Started:
   - Ended: 
@@ -24,5 +26,6 @@ Bottles:
 Litre:
 Taste: 
 Music:
+```
 
 Notes:
