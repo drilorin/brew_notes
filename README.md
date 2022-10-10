@@ -15,9 +15,13 @@ https://mermaid-js.github.io/mermaid/#/flowchart
 ### Flowchart
 ```mermaid
 flowchart TD
-  A[Water from mains] --> B;
-  B[(Brewer)] --> C;
-  C[Pump] --> D;
-  D[Cooler];
+  A[Water from mains] --> B{Water flow};
+  B -- Filling --> C;
+  B -- Cooling --> E;
+  C[(Brewer)] --> D;
+  D[Pump] --> E{Wort flow};
+  E -- Mashing --> C;
+  E -- Cooling --> E;
+  E[Cooler] --> F[(Fermenter)];
 
 
