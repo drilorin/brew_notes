@@ -6,13 +6,14 @@ In the [brews](brews) dir I will keep the different brews I have tried
 
 In the [history](history) I will keep a record of all the brews
 
-Brewing setup
+Brewing setup:
 
-## Mermaid
-### Diagram syntax
-https://mermaid-js.github.io/mermaid/#/flowchart
+ - Brewing pot: Brewster NG
+ - Pump: Brewolution TL-B08H-12-0703-W
+ - Chiller: Plate chiller - Maltbazaren 12 plates
 
-### Flowchart
+
+## Brewchart
 ```mermaid
 flowchart TD
   A[Water from mains] --> B{Water flow};
