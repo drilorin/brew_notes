@@ -1,5 +1,5 @@
 # Bryg 1: Moose Drool Klon
-
+```
 Brew Master: Dennis
 Date: 10/10 2022
 
@@ -14,7 +14,9 @@ Ph: Unknown
 Taste: Unknown
 Room temperature: aprox. 22 grader
 Music: N/A
+```
 
+```
 Bottled: 
   - Started:
   - Ended: 
@@ -24,6 +26,7 @@ Bottles:
 Litre:
 Taste: 
 Music:
+```
 
 Notes:
 
