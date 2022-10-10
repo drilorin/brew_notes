@@ -21,7 +21,7 @@ flowchart TD
   C[(Brewer)] --> D;
   D[Pump] --> E{Wort flow};
   E -- Mashing --> C;
-  E -- Cooling (Wort) --> F;
+  E -- Cooling wort --> F;
   F[Cooler] -- Wort --> G[(Fermenter)];
   F -- Waste water --> H[(Drain)];
 
