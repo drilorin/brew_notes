@@ -1,7 +1,7 @@
 # Bryg 1: Moose Drool Klon
 ```
 Brew Master: Dennis
-Date: 10/10 2022
+Date: 20221009
 
 Time:
   - Started: 17:00
