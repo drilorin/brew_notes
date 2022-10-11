@@ -26,6 +26,3 @@ flowchart TD
   F[Cooler] -- Wort --> G[(Fermenter)];
   F -- Waste water --> H[(Drain)];
 
-
-
-20221009 [brew1](brew1.md)
