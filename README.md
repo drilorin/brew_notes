@@ -16,19 +16,24 @@ In the [history](history) I will keep a record of all the brews
 ## Brewchart
 ```mermaid
 flowchart TD
-  A[Water from mains] --> B{Water flow T-piece};
-  B -- Filling --> C;
-  B -- Cooling water --> F;
-  C[(Brewer)] --> D;
-  D[Pump] --> E{Wort flow T-piece};
-  E -- Mashing --> C;
-  E -- Cooling wort --> F;
-  F[Cooler] -- Wort --> G[(Fermenter)];
-  F -- Waste water --> H[(Drain)];
+  A[Water from mains] --> E[Water flow T-piece];
+  E -- Water --> B[Filling valve];
+  E -- Water --> C[Cooling water valve];
+  B[(Brewer)] -- Mash / Wort --> F[Mash / Wort T-piece];
+  C[Cooler] -- Wort --> G[(Fermenter)];
+  P[Pump] -- Mash --> B;
+  F -- Mash --> G[Mash valve];
+  F -- Wort --> H[Wort valve];
+  G -- Mash --> P;
+  H -- Wort --> C;
+  C -- Waste water --> I[(Drain)];
 ```
 
 ## Brewing process notes:
-Fill up water from water mains
+Fill up 4-5 litres of water from water mains
+Bring to boiling
+Run through Mash water circuit
+Run through Cooler circuit and into the sink
 
 ## General notes
 
