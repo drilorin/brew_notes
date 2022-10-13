@@ -20,7 +20,7 @@ flowchart TD
   E -- Water --> J[Filling valve];
   E -- Water --> K[Cooling water valve];
   B[(Brewer)] -- Mash / Wort --> F[Mash / Wort T-piece];
-  C[Cooler] -- Wort --> G[(Fermenter)];
+  C[Cooler] -- Wort --> L[(Fermenter)];
   P[Pump] -- Mash --> B;
   J -- Water --> B;
   K -- Water --> C;
