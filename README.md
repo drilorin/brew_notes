@@ -17,11 +17,13 @@ In the [history](history) I will keep a record of all the brews
 ```mermaid
 flowchart TD
   A[Water from mains] --> E[Water flow T-piece];
-  E -- Water --> B[Filling valve];
-  E -- Water --> C[Cooling water valve];
+  E -- Water --> J[Filling valve];
+  E -- Water --> K[Cooling water valve];
   B[(Brewer)] -- Mash / Wort --> F[Mash / Wort T-piece];
   C[Cooler] -- Wort --> G[(Fermenter)];
   P[Pump] -- Mash --> B;
+  J -- Water --> B;
+  K -- Water --> C;
   F -- Mash --> G[Mash valve];
   F -- Wort --> H[Wort valve];
   G -- Mash --> P;
