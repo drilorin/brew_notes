@@ -34,8 +34,27 @@ flowchart TD
 ## Brewing process notes:
 Fill up 4-5 litres of water from water mains
 Bring to boiling
-Run through Mash water circuit
 Run through Cooler circuit and into the sink
+Empty Tank
+Fill up tank with mash inlay and 16.5 litres of water
+Heat to [mash temp]
+Add Barley and keep on [mash temp] for [mash period] / stir well 
+Add Mash recirculation ring and start pump
+Warm up water for mashout
+After [mash period] lift the mash inlay and start mashout
+Mashout until 16l of mash is left in the brewer
+Remove mash inlay and adjust to boiling temp for [boil period]
+Prepare hops packages for taste / aroma hopping and add them at appropriate times
+Prepare fermenting tanks and thrumometer
+With 15 mins left of boiling, run first 1 DL Wort through the cooler, which is thrown out.
+Then run 3-4l through the cooler which is reintroduced to the boiling wort
+When boiling is complete, attach thrumometer and cooling hoses
+Start water flow for the cooler and run wort through the cooler, adjust speed according to the temperature
+Take a last measurement of the temperature
+Add yeast
+Scold the lid and the fermenter-top and put the lid on the fermenter
+Add boiled water to the fermenter-top
+
 
 ## General notes
 ```
