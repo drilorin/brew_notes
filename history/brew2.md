@@ -7,13 +7,13 @@ Time:
   - Started: 15:00
   - Ended:
 
-OG:
+OG: 1042
 Effectiveness N/A% - Expected N/A%
-Mash Volume: 17 litres
-Ph:
-Taste:
+Mash Volume: 17 litres - see note
+Ph: Unknown
+Taste: Sweet and nice
 Room temperature: 26 C
-Music: Tom Mish
+Music: YT Music favourites
 ```
 
 ```
@@ -36,5 +36,7 @@ Should start with less water next time, perhaps 13-14 litres. Remember to withdr
 
 Mashout, was almost not able to add mashout liquid
 
-Before boiling fase, 10 cm from top ~ 17 litres - might need to boil longer than 60 mins
+Before boiling fase, 10 cm from top ~ 17 litres - need to boil longer than 60 mins
+
+Decided to make a measuring stick with litres, instead of measuring tape
 

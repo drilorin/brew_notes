@@ -46,8 +46,8 @@ flowchart TD
   - Prepare fermenting tanks and thrumometer
   - With 15 mins left of boiling, run first 1 DL Wort through the cooler, which is thrown out.
   - Then run 3-4l through the cooler which is reintroduced to the boiling wort
-  - When boiling is complete, attach thrumometer and cooling hoses
-  - Do an OG measurement
+  - When boiling is complete do an OG measurement
+  - Attach thrumometer and cooling hoses
   - Start water flow for the cooler and run wort through the cooler, adjust speed according to the temperature
   - Take a last measurement of the temperature
   - Add yeast
@@ -65,5 +65,5 @@ Normal 10 litre brew:
 
 Mashing - 16.5 litres
 Boiling ~ 16 litres
-Goal - 10 litres ~ 19 cm from top
+Goal - 11 litres ~ 18 cm from top
 ```
