@@ -32,10 +32,6 @@ flowchart TD
 ```
 
 ## Brewing process notes:
- - Fill up 4-5 litres of water from water mains
- - Bring to boiling
- - Run through Cooler circuit and into the sink
- - Empty Tank
  - Fill up tank with mash inlay and 16.5 litres of water
  - Heat to [mash temp]
  - Add Barley and keep on [mash temp] for [mash period] / stir well 
