@@ -45,6 +45,7 @@ flowchart TD
  - With 15 mins left of boiling, run first 1 DL Wort through the cooler, which is thrown out.
  - Then run 3-4l through the cooler which is reintroduced to the boiling wort
  - When boiling is complete, attach thrumometer and cooling hoses
+ - Do an OG measurement
  - Start water flow for the cooler and run wort through the cooler, adjust speed according to the temperature
  - Take a last measurement of the temperature
  - Add yeast

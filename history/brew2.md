@@ -1,8 +1,8 @@
 # Brew 1:
 ```
-Brew:
-Brew Master:
-Date:
+Brew: [Moose Drool Klon](../brews/moose_drool_klon.md)
+Brew Master: Dennis
+Date: 20221014
 
 Time:
   - Started:
