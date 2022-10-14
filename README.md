@@ -65,4 +65,5 @@ Normal 10 litre brew:
 
 Mashing - 16.5 litres
 Boiling ~ 16 litres
+Goal - 10 litres ~ 19 cm from top
 ```

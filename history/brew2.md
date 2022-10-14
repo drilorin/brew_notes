@@ -9,11 +9,11 @@ Time:
 
 OG:
 Effectiveness N/A% - Expected N/A%
-Mash Volume:
+Mash Volume: 17 litres
 Ph:
 Taste:
-Room temperature:
-Music:
+Room temperature: 26 C
+Music: Tom Mish
 ```
 
 ```
@@ -29,3 +29,12 @@ Music:
 ```
 
 Notes:
+
+Yeast used: SafAle T-58 - peppery and spicy flavour
+
+Should start with less water next time, perhaps 13-14 litres. Remember to withdraw 3 cms from the mash inlay top
+
+Mashout, was almost not able to add mashout liquid
+
+Before boiling fase, 10 cm from top ~ 17 litres - might need to boil longer than 60 mins
+
