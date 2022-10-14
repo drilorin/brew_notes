@@ -1,6 +1,5 @@
 # Brew 1: [Moose Drool Klon](../brews/moose_drool_klon.md)
 ```
-Brew: [Moose Drool Klon](../brews/moose_drool_klon.md)
 Brew Master: Dennis
 Date: 20221014
 
