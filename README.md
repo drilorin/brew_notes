@@ -36,7 +36,7 @@ flowchart TD
  - Heat to [Mashing temp]
  - Add Barley and keep on [Mashing temp] for [Mashing period] / stir well 
  - Add Mash recirculation ring and start pump
- - Warm up water for mashout
+ - Heat up water for mashout (78 C)
  - After [Mashing period] lift the mash inlay and start mashout
  - Adjust to [Mashout temp] for [Mashout period]
  - Mashout until 16l of mash is left in the brewer and [Mashout period] is up
