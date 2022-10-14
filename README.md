@@ -32,6 +32,7 @@ flowchart TD
 ```
 
 ## Brewing process notes:
+```
 Fill up 4-5 litres of water from water mains
 Bring to boiling
 Run through Cooler circuit and into the sink
@@ -54,6 +55,7 @@ Take a last measurement of the temperature
 Add yeast
 Scold the lid and the fermenter-top and put the lid on the fermenter
 Add boiled water to the fermenter-top
+```
 
 
 ## General notes
