@@ -4,7 +4,7 @@ Brew Master: Dennis
 Date: 20221014
 
 Time:
-  - Started:
+  - Started: 15:00
   - Ended:
 
 OG:

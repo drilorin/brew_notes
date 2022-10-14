@@ -32,26 +32,27 @@ flowchart TD
 ```
 
 ## Brewing process notes:
- - Fill up tank with mash inlay and 16.5 litres of water
- - Heat to [Mashing temp]
- - Add Barley and keep on [Mashing temp] for [Mashing period] / stir well 
- - Add Mash recirculation ring and start pump
- - Heat up water for mashout (78 C)
- - After [Mashing period] lift the mash inlay and start mashout
- - Adjust to [Mashout temp] for [Mashout period]
- - Mashout until 16l of mash is left in the brewer and [Mashout period] is up
- - Remove mash inlay and adjust to boiling temp for [Boiling period]
- - Prepare hops packages for taste / aroma hopping and add them at appropriate times
- - Prepare fermenting tanks and thrumometer
- - With 15 mins left of boiling, run first 1 DL Wort through the cooler, which is thrown out.
- - Then run 3-4l through the cooler which is reintroduced to the boiling wort
- - When boiling is complete, attach thrumometer and cooling hoses
- - Do an OG measurement
- - Start water flow for the cooler and run wort through the cooler, adjust speed according to the temperature
- - Take a last measurement of the temperature
- - Add yeast
- - Scold the lid and the fermenter-top and put the lid on the fermenter
- - Add boiled water to the fermenter-top
+  - Unroll the mains lead
+  - Fill up tank with mash inlay and 16.5 litres of water
+  - Heat to [Mashing temp]
+  - Add Barley and keep on [Mashing temp] for [Mashing period] / stir well 
+  - Add Mash recirculation ring and start pump
+  - Heat up water for mashout (78 C)
+  - After [Mashing period] lift the mash inlay and start mashout
+  - Adjust to [Mashout temp] for [Mashout period]
+  - Mashout until 16l of mash is left in the brewer and [Mashout period] is up
+  - Remove mash inlay and adjust to boiling temp for [Boiling period]
+  - Prepare hops packages for taste / aroma hopping and add them at appropriate times
+  - Prepare fermenting tanks and thrumometer
+  - With 15 mins left of boiling, run first 1 DL Wort through the cooler, which is thrown out.
+  - Then run 3-4l through the cooler which is reintroduced to the boiling wort
+  - When boiling is complete, attach thrumometer and cooling hoses
+  - Do an OG measurement
+  - Start water flow for the cooler and run wort through the cooler, adjust speed according to the temperature
+  - Take a last measurement of the temperature
+  - Add yeast
+  - Scold the lid and the fermenter-top and put the lid on the fermenter
+  - Add boiled water to the fermenter-top
 
 
 ## General notes

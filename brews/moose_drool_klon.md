@@ -7,11 +7,11 @@ Barley:
   - Black barley
 
 Hopps:
-  - Bitter: East Kent Golding
-  - Taste: Mittelfruh with wort clearing
+  - Bitter: East Kent Golding - after 0 mins
+  - Taste: Mittelfruh with wort clearing - after 30 mins
   - Aroma:
-    - Willamette
-    - Mittelfruh
+    - Willamette - after 55 mins
+    - Mittelfruh - after 59 mins
 
  - Bitterness: 26 IBU
  - Colour: 66 EBC
