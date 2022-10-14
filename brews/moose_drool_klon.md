@@ -13,13 +13,13 @@ Hopps:
     - Willamette
     - Mittelfruh
 
-Bitterness: 26 IBU
-Colour: 66 EBC
-Alcohol: 6.6%
-OG: 1067
-FG: 1017
-Mashing temp: 67 C
-Mashing period: 60 mins
-Mashout temp: 78 C
-Mashout period: 10 mins
-Boiling period: 60 mins
+ - Bitterness: 26 IBU
+ - Colour: 66 EBC
+ - Alcohol: 6.6%
+ - OG: 1067
+ - FG: 1017
+ - Mashing temp: 67 C
+ - Mashing period: 60 mins
+ - Mashout temp: 78 C
+ - Mashout period: 10 mins
+ - Boiling period: 60 mins
