@@ -1,6 +1,5 @@
 # Brew 1:
 ```
-Brew:
 Brew Master:
 Date:
 
