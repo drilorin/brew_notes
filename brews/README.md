@@ -1,3 +1,2 @@
-# Collection of different brews:
-[Moose Drool Klon](moose_drool_klon.md)
-
+# Brews:
+ - [moose_drool_klon](moose_drool_klon.md)

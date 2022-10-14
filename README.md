@@ -33,13 +33,14 @@ flowchart TD
 
 ## Brewing process notes:
  - Fill up tank with mash inlay and 16.5 litres of water
- - Heat to [mash temp]
- - Add Barley and keep on [mash temp] for [mash period] / stir well 
+ - Heat to [Mashing temp]
+ - Add Barley and keep on [Mashing temp] for [Mashing period] / stir well 
  - Add Mash recirculation ring and start pump
  - Warm up water for mashout
- - After [mash period] lift the mash inlay and start mashout
- - Mashout until 16l of mash is left in the brewer
- - Remove mash inlay and adjust to boiling temp for [boil period]
+ - After [Mashing period] lift the mash inlay and start mashout
+ - Adjust to [Mashout temp] for [Mashout period]
+ - Mashout until 16l of mash is left in the brewer and [Mashout period] is up
+ - Remove mash inlay and adjust to boiling temp for [Boiling period]
  - Prepare hops packages for taste / aroma hopping and add them at appropriate times
  - Prepare fermenting tanks and thrumometer
  - With 15 mins left of boiling, run first 1 DL Wort through the cooler, which is thrown out.
