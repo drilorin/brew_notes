@@ -5,7 +5,7 @@ Date: 20221014
 
 Time:
   - Started: 15:00
-  - Ended:
+  - Ended: 19:10
 
 OG: 1042
 Effectiveness N/A% - Expected N/A%
