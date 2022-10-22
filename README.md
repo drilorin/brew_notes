@@ -65,7 +65,7 @@ flowchart TD
     - Wash in normal cleaning solvent first
     - Then make a solution of Acid San and soak for 60 seconds and place upside down in rack
   - Do an FG measurement
-  - Add the sugar in the new fermenter
+  - Add the sugar in the new fermenter and stir
   - Fill bottle with 1 cm air gap
   - Cap bottles
 
