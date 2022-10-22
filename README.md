@@ -54,8 +54,22 @@ flowchart TD
   - Scold the lid and the fermenter-top and put the lid on the fermenter
   - Add boiled water to the fermenter-top
 
+## End fermenting notes:
+  - Cold crash - TBW
+  
+## Bottling process notes:
+  - Clean a new fermenter / fermenting bucket, preferrebly with a valve
+  - Move the fermented beer into the new fermenting bucket, pour gently to avoid the sediment in the bottom
+  - Prepare 6g sugar pr liter of beer (60g), in 2 DL water
+  - Prepare the bottles
+    - Wash in normal cleaning solvent first
+    - Then make a solution of Acid San and soak for 60 seconds and place upside down in rack
+  - Do an FG measurement
+  - Add the sugar in the new fermenter
+  - Fill bottle with 1 cm air gap
+  - Cap bottles
 
-## General notes
+## General notes:
 ```
 Under the mash inlay: 6l of water
 14.5 litres = 14 cm from the top of the inlay
