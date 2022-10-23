@@ -7,7 +7,7 @@ Time:
   - Started: 15:00
   - Ended: 19:10
 
-OG: 1038
+OG: 1.038
 Effectiveness N/A% - Expected N/A%
 Mash Volume: 17 litres - see note
 Ph: Unknown
@@ -20,8 +20,8 @@ Music: YT Music favourites
 Bottled: 
   - Started: 20221023 - 22:00
   - Ended: 23:00
-FG: 1010
-Alcohol %: 1038 - 1010 * 131.25 (OG - FG * 131.25)
+FG: 1.010
+Alcohol %: 3.675
 Bottles: 20 * 33 cl + 4 * 1l
 Litre: 10
 Taste: Sweet and a bit tangy perhaps from yeast being done for at least 4-5 days
