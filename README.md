@@ -54,9 +54,6 @@ flowchart TD
   - Scold the lid and the fermenter-top and put the lid on the fermenter
   - Add boiled water to the fermenter-top
 
-## End fermenting notes:
-  - Cold crash - TBW
-  
 ## Bottling process notes:
   - Clean a new fermenter / fermenting bucket, preferrebly with a valve
   - Move the fermented beer into the new fermenting bucket, pour gently to avoid the sediment in the bottom
@@ -68,6 +65,7 @@ flowchart TD
   - Add the sugar in the new fermenter and stir
   - Fill bottle with 1 cm air gap
   - Cap bottles
+
 
 ## General notes:
 ```
