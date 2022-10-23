@@ -46,4 +46,4 @@ Decided to bottle in one case (20 * 33cl) and the rest in larger bottles.
 
 Found out that my 33 cl bottles needed more cleaning, so I was left with the options of 5 * ½l, 6 * 1l and a mason jar with 75cl in it. All in all: 9,25l
 
-Closing thoughts: Will monitor and bottle faster when the fermentation is done
+Closing thoughts: Will monitor and bottle faster when the fermentation is done. The low alcohol % could be connected to the yeast choice / lack of temperature control
