@@ -2,7 +2,7 @@
 
 # Look into all the files which match history/brew* and add them to README.md
 # First grep out the date and put that into the README.md as well
-set -x
+# set -x
 
 echo "# History of brews:" > ../history/README.md
 for i in $(ls -1 ../history/brew*) ;

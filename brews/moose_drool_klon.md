@@ -13,6 +13,7 @@ Hopps:
     - Willamette - after 55 mins
     - Mittelfruh - after 59 mins
 
+Stats:
  - Bitterness: 26 IBU
  - Colour: 66 EBC
  - Alcohol: 6.6%
