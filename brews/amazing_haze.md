@@ -1,11 +1,10 @@
 # Amazing Haze
 
 Barley: 
-  - Pale ale malt - 2600g
-  - Oatmeal malt / Havremalt- 260g
-  - Flaked torrefied oats - 260g
-  - Flaked torrefied wheat - 260g
-  - Premium English caramalt - 260g (or another caramalt with 21 L/54 EBC)
+  - Pale Ale, Castle Malting - 2600g
+  - Oatmeal malt / Havremalt- 300g
+  - Hvede umaltet Warminster, Whole Torrified Wheat - 500g
+  - Premium English caramalt - 60g (or another caramalt with 21 L/54 EBC)
 
 Hopps:
   - Mosaic 50g - after 60 mins - let rest for 20 mins
@@ -27,6 +26,13 @@ Stats:
  - FG: 1,012-1,1016
  - Mashing temp: 71 C
  - Mashing period: 60 mins
- - Mashout temp: 78 C
- - Mashout water: 2 litre
+ - Sparge temp: 78 C
+ - Sparge water: 2 litre
  - Boiling period: 60 mins
+
+Original barley recipe:
+  - Pale ale malt - 2600g
+  - Oatmeal malt / Havremalt- 260g
+  - Flaked torrefied oats - 260g
+  - Flaked torrefied wheat - 260g
+  - Premium English caramalt - 60g (or another caramalt with 21 L/54 EBC)
