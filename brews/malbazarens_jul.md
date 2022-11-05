@@ -55,4 +55,4 @@ Stats:
  - Boiling period: 60 mins
  - Boiling volume: 10 litres - 14 litres - 15 cm from top of brewer
  - Wort volume;
-   10 litres: 11 litres (18 cm from the top) or when the OG reaches the 1,072 mark
+   10 litres: 12 litres (17 cm from the top) or when the OG reaches the 1,072 mark
