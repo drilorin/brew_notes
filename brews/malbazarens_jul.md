@@ -30,8 +30,8 @@ Hopps:
     @ 30 mins:
       - 10 litres - 10g Fuggle hopps
     @ 0 mins:
-      - 15g Fuggle hopps
-      - 4g cinnamon
+      - 8g Fuggle hopps
+      - 2g cinnamon
       - ½ Star annise
 
 Yeast:
@@ -40,7 +40,7 @@ Yeast:
 Stats:
  - Mashing volume: 
    - 20-23 litres - 23 litres
-   - 10 litres - 12 litres
+   - 10 litres - 14 litres - 15 cm from top of brewer
  - Bitterness: 38 IBU
  - Alcohol: 7.2%
  - OG: 1,072
@@ -50,7 +50,9 @@ Stats:
  - Sparge temp: 76 C
  - Sparge water:
    - 20-23 litres - 17 litres
-   - 10 litres - 8 litres
+   - 10 litres - 3 litres
  - Sparge period: 10 mins
  - Boiling period: 60 mins
-
+ - Boiling volume: 10 litres - 14 litres - 15 cm from top of brewer
+ - Wort volume;
+   10 litres: 11 litres (18 cm from the top) or when the OG reaches the 1,072 mark

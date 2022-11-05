@@ -79,3 +79,14 @@ Mashing - 16.5 litres
 Boiling ~ 16 litres
 Goal - 11 litres ~ 18 cm from top
 ```
+
+| Litres | CM from top |
+| --- | --- |
+| 16 | 12 |
+| 15 | 13,5 |
+| 14 | 15 |
+| 13 | 16 |
+| 12 | 17 |
+| 11 | 18 |
+| 10 | 19 |
+

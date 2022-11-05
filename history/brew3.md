@@ -1,19 +1,19 @@
-# Brew 1:
+# Brew 3: [Maltbazarens JuL](../brews/malbazarens_jul.md)
 ```
-Brew Master:
-Date:
+Brew Master: Dennis
+Date: 20221104
 
 Time:
-  - Started:
+  - Started: 13:30
   - Ended:
 
 OG:
 Effectiveness N/A% - Expected N/A%
-Mash Volume:
-Ph:
+Mash Volume: 14 litres
+Ph: Unknown
 Taste:
-Room temperature:
-Music:
+Room temperature: 25 C
+Music: Snarky Puppy
 ```
 
 ```
@@ -29,3 +29,7 @@ Music:
 ```
 
 Notes:
+
+After mashing and sparging, the volume was actually 16 litres. Will reduce the spargin volume to the next brew
+
+Had to boil more than 60 mins to compensate for the boiling volume.
