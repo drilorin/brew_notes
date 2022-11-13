@@ -1,38 +1,30 @@
 # Woodcock Pale Ale - Allgrain kit
 
 Barley: 
-  - Pale Ale, Castle Malting - 2600g
-  - Oatmeal malt / Havremalt- 300g
-  - Hvede umaltet Warminster, Whole Torrified Wheat - 500g
-  - Premium English caramalt - 60g (or another caramalt with 21 L/54 EBC)
+  - Mixed barley - 3115g
 
 Hopps:
-  - Mosaic 50g - after 60 mins - let rest for 20 mins
-  - Citra 50g - after 60 mins - let rest for 20 mins
+  - East Kent Kolding 15g - @60 mins
+  - East Kent Kolding 10g - @30 mins
+  - Itish moss 7.5g - @15 mins
+  - Fuggle 10g - @10 mins
 
 Dry Hopps:
-  - Mosaic - 50g - after 3-4 days
-  - Citra - 25g - after 3-4 days
-  - Ekuanot - 25g - after 3-4 days
+  - Fuggle - 10g - after 3-4 days
 
 Yeast:
-  - Coastal haze blend WLP067 or Lallemand New England IPA ~ 11g
+  - S-04 SafeAle Fermentis
 
 Stats:
- - Mashing volume: aprox 16 litre
- - Bitterness: 50 IBU
+ - Mashing volume: 14 litre
+ - Bitterness: 21 IBU
+ - EBC: 21 - Deep amber
  - Alcohol: 6.5%
  - OG: 1,061-1,065
  - FG: 1,012-1,1016
- - Mashing temp: 71 C
- - Mashing period: 60 mins
+ - Mashing temp: 65 C
+ - Mashing period: 90 mins
  - Sparge temp: 78 C
- - Sparge water: 2 litre
+ - Sparge water: 3 litre
  - Boiling period: 60 mins
 
-Original barley recipe:
-  - Pale ale malt - 2600g
-  - Oatmeal malt / Havremalt- 260g
-  - Flaked torrefied oats - 260g
-  - Flaked torrefied wheat - 260g
-  - Premium English caramalt - 60g (or another caramalt with 21 L/54 EBC)

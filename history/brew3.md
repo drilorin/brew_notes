@@ -1,4 +1,4 @@
-# Brew 3: [Maltbazarens JuL](../brews/malbazarens_jul.md)
+# Brew name: [Maltbazarens JuL](../brews/malbazarens_jul.md)
 ```
 Brew Master: Dennis
 Date: 20221104
@@ -10,6 +10,7 @@ Time:
 OG: 1072
 Effectiveness N/A% - Expected N/A%
 Mash Volume: 14 litres
+Finished volume: 8.5 litres
 Ph: Unknown
 Taste: Sweet with a lot of different notes
 Room temperature: 25 C
@@ -39,5 +40,4 @@ Boiled some water, waited until it was back down to 35 C. Poured 10 * the weight
 
 The finished wort: 8,5 litres - still got a lot to learn about the volumes.
 
-Used alcohol in the yeast lock - Like Alex does :)
-
+Used alcohol in the air lock - Like Alex does :)
