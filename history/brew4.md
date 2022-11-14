@@ -1,4 +1,4 @@
-# Brew name: [Woodcock Pale Ale](../brews/woodcock_pale_ale.md.md)
+# Brew name: [Woodcock Pale Ale](../brews/woodcock_pale_ale.md)
 ```
 Brew Master: Dennis
 Date: 20221112
