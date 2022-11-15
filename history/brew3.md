@@ -41,3 +41,5 @@ Boiled some water, waited until it was back down to 35 C. Poured 10 * the weight
 The finished wort: 8,5 litres - still got a lot to learn about the volumes.
 
 Used alcohol in the air lock - Like Alex does :)
+
+Fermentation in the air lock stopped 20221114 - 10 days after brew day - will do a gravity reading tomorrow.
