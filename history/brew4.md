@@ -42,3 +42,4 @@ Next brew I will only sparge with 2 L of water since the OG is still only 1035 w
 Will try with a boil in a bag system next time so I can hit a better OG with the same amount of water.
 
 20221116 - Fermenting stopped. Did i G reading of 1012 - which could be great, but it stopped fermenting far too fast. Will try the same brew again, but ferment with an airlock next time.
+20221119 - Did a reading of 1010
