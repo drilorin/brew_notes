@@ -18,14 +18,14 @@ Music: Snarky Puppy
 ```
 
 ```
-Bottled: 
-  - Started:
-  - Ended: 
-FG: 
-Alcohol %: (OG - FG * 131.25)
-Bottles: 
-Litre:
-Taste: 
+Bottled: 20221201
+  - Started: 21:15
+  - Ended: 22:15
+FG: 1018
+Alcohol %: (OG - FG * 131.25) 7%
+Bottles: 6 x 1l, 1 x ½l
+Litre: 6,5l
+Taste: Has really strong yeast bitter flavor. When that subsides, a lot of interesting tastes appear.
 Music:
 ```
 
@@ -45,3 +45,5 @@ Used alcohol in the air lock - Like Alex does :)
 Fermentation in the air lock stopped 20221114 - 10 days after brew day - will do a gravity reading tomorrow.
 20221116 - Did a reading of 1028
 20221119 - Did a reading of 1017
+20221123 - Did a reading of 1018
+20221201 - Bottling day, final reading 1018

@@ -20,14 +20,14 @@ Music: None, just thinking and optimizing :)
 ```
 
 ```
-Bottled: 
-  - Started:
-  - Ended: 
-FG: 
-Alcohol %: (OG - FG * 131.25)
-Bottles: 
-Litre:
-Taste: 
+Bottled: 20221201
+  - Started: 21:15
+  - Ended: 22:15 (including bottling of brew3
+FG: 1008
+Alcohol %: (OG - FG * 131.25) 5.5%
+Bottles: 8 x 1l and 1 ½l bottles
+Litre: 8,5l
+Taste: Has some funny yeast left over tastes
 Music:
 ```
 
@@ -43,3 +43,5 @@ Will try with a boil in a bag system next time so I can hit a better OG with the
 
 20221116 - Fermenting stopped. Did i G reading of 1012 - which could be great, but it stopped fermenting far too fast. Will try the same brew again, but ferment with an airlock next time.
 20221119 - Did a reading of 1010
+20221123 - Did a reading of 1008
+20221201 - Bottle day. Final reading 1008 
