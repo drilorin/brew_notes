@@ -6,7 +6,7 @@ Barley:
 Hopps:
   - East Kent Kolding 15g - @60 mins
   - East Kent Kolding 10g - @30 mins
-  - Itish moss 7.5g - @15 mins
+  - Irish moss 7.5g - @15 mins
   - Fuggle 10g - @10 mins
 
 Dry Hopps:
