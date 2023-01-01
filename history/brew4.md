@@ -40,8 +40,9 @@ Decided to try to ferment without an airlock, with just the lid loosely on
 Next brew I will only sparge with 2 L of water since the OG is still only 1035 with 10 mins to go. Will have to boil longer, again.
 
 Will try with a boil in a bag system next time so I can hit a better OG with the same amount of water.
-
+```
 20221116 - Fermenting stopped. Did i G reading of 1012 - which could be great, but it stopped fermenting far too fast. Will try the same brew again, but ferment with an airlock next time.
 20221119 - Did a reading of 1010
 20221123 - Did a reading of 1008
 20221201 - Bottle day. Final reading 1008 
+```

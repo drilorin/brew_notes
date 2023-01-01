@@ -43,7 +43,9 @@ The finished wort: 8,5 litres - still got a lot to learn about the volumes.
 Used alcohol in the air lock - Like Alex does :)
 
 Fermentation in the air lock stopped 20221114 - 10 days after brew day - will do a gravity reading tomorrow.
+``
 20221116 - Did a reading of 1028
 20221119 - Did a reading of 1017
 20221123 - Did a reading of 1018
 20221201 - Bottling day, final reading 1018
+```
