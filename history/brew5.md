@@ -44,4 +44,8 @@ Decided to not use a pump and sparging, so a back to the roots sort of brew. Als
 
 Cleaning after BIAB was SOO easy! 5-6 mins tops!
 
-Tried the new hop spider, first off it's a great idea.
+Tried the new hop spider.
+
+```
+20230104 - Dried hopped and checked that the air lock was still working
+```
