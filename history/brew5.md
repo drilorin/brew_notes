@@ -48,4 +48,5 @@ Tried the new hop spider.
 
 ```
 20230104 - Dried hopped and checked that the air lock was still working
+20230106 - Did a gravity reading, it said 1010 and the airlock activity was stopped. I think I'll either bottle it straight away or move the wort to a new bucket.
 ```
