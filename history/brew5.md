@@ -23,14 +23,14 @@ Music: Scary Pockets
 ```
 
 ```
-Bottled: 
-  - Started:
-  - Ended: 
-FG: 
-Alcohol %: (OG - FG * 131.25)
-Bottles: 
-Litre:
-Taste: 
+Bottled: 20230108
+  - Started: 22:00
+  - Ended: 23:10
+FG: 1010
+Alcohol %: (OG - FG * 131.25) 6.1%
+Bottles: 9 x 1 litre bottles
+Litre: 9
+Taste: Great sweet taste with a good shot of Fuggle bitternes
 Music:
 ```
 
@@ -49,4 +49,5 @@ Tried the new hop spider.
 ```
 20230104 - Dried hopped and checked that the air lock was still working
 20230106 - Did a gravity reading, it said 1010 and the airlock activity was stopped. I think I'll either bottle it straight away or move the wort to a new bucket.
+20230108 - Bottled
 ```
