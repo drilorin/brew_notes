@@ -1,7 +1,7 @@
 # Belgian IPA - Allgrain kit
 
 Barley: 
-  - Mixed barley - 4900g
+  - Mixed barley - 2450g
 
 Hopps:
   - Fuggle 40g - @60 mins
@@ -9,11 +9,8 @@ Hopps:
   - Irish Moss 7.5g - @15 mins
   - Fuggle 20g - @5 mins
 
-Dry Hopps:
-  - Fuggle - 10g - after 3-4 days
-
 Yeast:
-  - T-58 Fermentis Gær
+  - T-58 Fermentis
 
 Stats:
  - Mashing volume: 16 litre
@@ -23,7 +20,7 @@ Stats:
  - OG: 1,061
  - FG: 1,012
  - Mashing temp: 65 C
- - Mashing period: 30 mins
+ - Mashing period: 60 mins
  - Boiling period: 60 mins
  - Co2 - 6.5g sukker per liter
 
