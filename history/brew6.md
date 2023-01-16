@@ -5,7 +5,7 @@ Date: 20230115
 
 Time:
   - Started: 16:00
-  - Ended:
+  - Ended: 19:30
 
 Gravity readings:
   - After mash: 1040
