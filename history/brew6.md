@@ -33,7 +33,11 @@ Music:
 ```
 
 Notes:
-
+```
 Started with hot water from the tap - aprox 53 c
 Rehydrated yeast to begin with
 
+```
+```
+20230121 - Did a gravity reading and it was 1010 which means that it soon is bottling day
+```
