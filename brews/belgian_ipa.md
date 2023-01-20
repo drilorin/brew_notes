@@ -22,6 +22,6 @@ Stats:
  - Mashing temp: 65 C
  - Mashing period: 60 mins
  - Boiling period: 60 mins
- - Co2 - 6.5g sukker per liter
+ - Co2 - 6.5g sugar per liter
 
 [PDF](BelgianIPA.pdf)
