@@ -4,10 +4,10 @@ Barley:
   - Mixed barley - 2450g
 
 Hopps:
-  - Fuggle 40g - @60 mins
-  - Fuggle 40g - @30 mins
+  - Fuggle 20g - @60 mins
+  - Fuggle 20g - @30 mins
   - Irish Moss 7.5g - @15 mins
-  - Fuggle 20g - @5 mins
+  - Fuggle 10g - @5 mins
 
 Yeast:
   - T-58 Fermentis
