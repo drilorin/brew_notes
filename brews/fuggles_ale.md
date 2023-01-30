@@ -1,9 +1,9 @@
 # Fuggles Ale - 
 
 Fermentables: 
-  - Pilsner malt - 1750g
-  - Dark Munich - 250g
-  - Carafa II - 10g 
+  - Pilsner malt - 1750g - https://www.hjemmebryggeren.dk/raavarer/bland-selv-all-grain-kit/bland-selv-basis-malt/1634-pilsnermalt-ebc-2-5-3-5-1-gram
+  - Dark Munich - 250g - https://www.hjemmebryggeren.dk/raavarer/bland-selv-all-grain-kit/bland-selv-basis-malt/1636-muenich-malt-ebc-25-1-gram
+  - Carafa II - 10g - https://www.hjemmebryggeren.dk/raavarer/bland-selv-all-grain-kit/bland-selv-special-malt/bestmaltz-black-malt-ebc-1100-1200-1-gram-malt-i-gram-er-kun-til-bland-selv-kits
 
 Hopps:
   - Fuggle 25g - @60 mins
