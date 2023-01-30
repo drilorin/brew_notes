@@ -33,26 +33,21 @@ flowchart TD
 
 ## Brewing process notes:
   - Unroll the mains lead
-  - Fill up tank with mash inlay and 16.5 litres of water
+  - Fill up tank with mash inlay and 16 litres of water - 12 cm from the top
   - Heat to [Mashing temp]
-  - Add Barley and keep on [Mashing temp] for [Mashing period] / stir well 
-  - Add Mash recirculation ring and start pump
-  - Heat up water for mashout (78 C)
-  - After [Mashing period] lift the mash inlay and start mashout
-  - Adjust to [Mashout temp] for [Mashout period]
-  - Mashout until 16l of mash is left in the brewer and [Mashout period] is up
-  - Remove mash inlay and adjust to boiling temp for [Boiling period]
+  - Prepare 115 g boiling water for rehydrating of yeast
+  - Add brew bag and add Barley and keep on [Mashing temp] for [Mashing period] / stir well 
+  - Remove brew bag and adjust to boiling temp for [Boiling period]
   - Prepare hops packages for taste / aroma hopping and add them at appropriate times
+  - When rehydrating water is at 35 C, pour in the yeast and stir it gently after 15 mins
   - Prepare fermenting tanks and thrumometer
   - With 15 mins left of boiling, run first 1 DL Wort through the cooler, which is thrown out.
   - Then run 3-4l through the cooler which is reintroduced to the boiling wort
-  - When boiling is complete do an OG measurement
   - Attach thrumometer and cooling hoses
-  - Start water flow for the cooler and run wort through the cooler, adjust speed according to the temperature
-  - Take a last measurement of the temperature
+  - Start water flow for the cooler and run wort through the cooler, adjust water according to the temperature, aim for 24-26 C
+  - Take an OG measurement
   - Add yeast
-  - Scold the lid and the fermenter-top and put the lid on the fermenter
-  - Add boiled water to the fermenter-top
+  - Add Acid SAN water to the fermenter-top
 
 ## Bottling process notes:
   - Clean a new fermenter / fermenting bucket, preferrebly with a valve
@@ -71,13 +66,11 @@ flowchart TD
 ```
 Under the mash inlay: 6l of water
 14.5 litres = 14 cm from the top of the inlay
-16.5 litres = 11.5 cm from the top
+16 litres = 12 cm from the top
 
 Normal 10 litre brew:
 
-Mashing - 16.5 litres
-Boiling ~ 16 litres
-Goal - 11 litres ~ 18 cm from top
+Mashing - 16 litres
 ```
 
 | Litres | CM from top |
