@@ -34,7 +34,7 @@ Music:
 
 Notes:
 ```
-Quite low After masg gravity reading but evened out.
+Quite low After mash gravity reading but evened out.
 
 ```
 ```
