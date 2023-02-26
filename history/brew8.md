@@ -15,7 +15,7 @@ Gravity readings:
 
 Effectiveness N/A% - Expected N/A%
 Mash Volume: 16 l
-Finished Volume:
+Finished Volume: 11 l
 Ph:
 Taste:
 Room temperature: 23 c
@@ -31,7 +31,11 @@ Alcohol %: (OG - FG * 131.25)
 Bottles: 
 Litre:
 Taste: 
-Music: Donald Fagen - The Nightfly
+Music:
 ```
 
 Notes:
+
+´´´
+Will try and reduce mash volume for next brew, to reach a higher OG
+´´´
