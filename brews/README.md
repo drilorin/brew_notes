@@ -1,6 +1,8 @@
 # Brews:
  - [amazing_haze](amazing_haze.md)
  - [belgian_ipa](belgian_ipa.md)
+ - [chinook_pale_ale](chinook_pale_ale.md)
+ - [five_o_lock_esb](five_o_lock_esb.md)
  - [fuggles_ale](fuggles_ale.md)
  - [malbazarens_jul](malbazarens_jul.md)
  - [moose_drool_klon](moose_drool_klon.md)
