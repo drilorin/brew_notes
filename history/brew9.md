@@ -4,20 +4,18 @@ Brew Master: Dennis
 Date: 20230305
 
 Time:
-  - Started:
-  - Ended:
+  - Started: 10:30
+  - Ended: 14:00
 
 Gravity readings:
-  - After mash:
-  - @30 mins:
-  - OG: 
+  - OG: 1057
 
 Effectiveness N/A% - Expected N/A%
-Mash Volume:
-Finished Volume:
-Ph:
-Taste:
-Room temperature:
+Mash Volume: 15 l
+Finished Volume: 9.5 l
+Ph: Unknown
+Taste: Malty with a lot of bitterness
+Room temperature: 25
 Music:
 ```
 
