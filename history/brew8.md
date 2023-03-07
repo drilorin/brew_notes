@@ -1,5 +1,4 @@
 # Brew 8: [Fuggles Ale](../brews/fuggles_ale.md)
-
 ```
 Brew Master: Dennis
 Date: 20230226
