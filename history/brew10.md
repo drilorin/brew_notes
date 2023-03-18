@@ -16,8 +16,8 @@ Effectiveness N/A% - Expected N/A%
 Mash Volume: 16 l
 Finished Volume: 10.5 l
 Ph:
-Taste:
-Room temperature:
+Taste: Malty with a hint of bitterness
+Room temperature: 24 c
 Music:
 ```
 
