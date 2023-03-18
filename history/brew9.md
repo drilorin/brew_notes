@@ -20,14 +20,14 @@ Music:
 ```
 
 ```
-Bottled: 
-  - Started:
-  - Ended: 
-FG: 
-Alcohol %: (OG - FG * 131.25)
-Bottles: 
-Litre:
-Taste: 
+Bottled: 20230318
+  - Started: 18:00
+  - Ended: 18:00
+FG: 1008
+Alcohol %: 1.057 - 1.008 * 7.5 = 6.5%
+Bottles: 8
+Litre: 8 l
+Taste: Sweet and very smooth with a bitter aftertaste
 Music:
 ```
 
