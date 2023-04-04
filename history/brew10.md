@@ -22,15 +22,17 @@ Music:
 ```
 
 ```
-Bottled: 
-  - Started:
-  - Ended: 
-FG: 
-Alcohol %: (OG - FG * 131.25)
-Bottles: 
-Litre:
-Taste: 
+Bottled: 20230404
+  - Started: 15:30
+  - Ended: 16:00
+FG: 1012
+Alcohol %: 1.058 - 1.012 * 7.5 = 6.5%
+Bottles: 9
+Litre: 9 litres
+Taste: Sweet with bitter notes, and a hint of carbonation
 Music:
 ```
 
 Notes:
+
+First time with preassure fermenation, but not a good result. Added sugar in the end for normal post carbonation. I think the 10l brew in the 30l fermenter "ate" a lot of the co2 produced. Will try preassure fermentation again another time, with a larger batch volume
