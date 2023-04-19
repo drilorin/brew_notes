@@ -21,14 +21,14 @@ Music: FUNK
 ```
 
 ```
-Bottled: 
-  - Started:
-  - Ended: 
-FG: 
-Alcohol %: (OG - FG * 7.5)
-Bottles: 
-Litre:
-Taste: 
+Bottled: 20230419
+  - Started: 17:15
+  - Ended: 18:30
+FG: 1014
+Alcohol %: (1.050-1.014) * 131.25 = 4.7
+Bottles: 18 * 1l
+Litre: 18 l
+Taste: Very sweet and with a lot of fruity nodes. Looking forward to tasting it when it's finished carbonating
 Music:
 ```
 
@@ -39,4 +39,5 @@ The brew kettle kept warming in the last half of the mash, so the temp reached a
 Mashout was WAY harder than the half batches I have done so far. Will consider diverging from BIAB with larger batches.
 13 cm from top after mashout ~ 15 l left
 Added water to 3 cm from top ~ About 9 l
+Will add more water next time - and use the inlay
 
