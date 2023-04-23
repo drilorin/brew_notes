@@ -20,7 +20,7 @@ Stats:
  - Alcohol: 7.9%
  - OG: 1,072
  - FG: 1,012
- - Mashing temp: 65 C
+ - Mashing temp: 66 C
  - Mashing period: 90 mins
  - Boiling period: 60 mins
  - Co2 - 6.5g sugar per liter
