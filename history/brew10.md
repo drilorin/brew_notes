@@ -26,7 +26,7 @@ Bottled: 20230404
   - Started: 15:30
   - Ended: 16:00
 FG: 1012
-Alcohol %: 1.058 - 1.012 * 7.5 = 6.5%
+Alcohol %: (1.058-1.012)*131.25 = 6.0%
 Bottles: 9
 Litre: 9 litres
 Taste: Sweet with bitter notes, and a hint of carbonation
