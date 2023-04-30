@@ -26,7 +26,7 @@ Bottled:
   - Started:
   - Ended: 
 FG: 
-Alcohol %: (OG - FG * 7.5)
+Alcohol %: (OG - FG) * 131.25
 Bottles: 
 Litre:
 Taste: 
