@@ -9,9 +9,9 @@ Fermentables:
 Hopps:
   - Chinook 35g - @60 mins
   - Chinook 15g - @30 mins
+  - Irish Moss 7.5g - @15 mins
   - Chinook 15g - @5 mins
   - Chinook 15g - Dry hop - day 0
-  - Irish Moss 7.5g - @15 mins
 
 Yeast:
   - White Labs WLP670 American Farmhouse Ale Blend
@@ -20,7 +20,7 @@ Stats:
  - Mashing volume: 16 litre
  - Bitterness: 94 IBU
  - EBC: Unknown
- - Alcohol: 4.2%
+ - Alcohol: 6.3%
  - OG: 1,064
  - FG: 1,016
  - Mashing temp: 66 C
