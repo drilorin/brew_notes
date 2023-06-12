@@ -14,7 +14,7 @@ Gravity readings:
 Effectiveness N/A% - Expected N/A%
 Mash Volume: 16 l
 Pre boil Volume: 14,5 l
-Finished Volume:
+Finished Volume: 9,5 l
 Ph:
 Taste: Very sweet and with a good amount of Chinook flavor
 Room temperature:
