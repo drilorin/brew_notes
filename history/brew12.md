@@ -1,4 +1,4 @@
-# Brew 11: [Hjemmebryggerens 10 aars IPA](../brews/hjemmebryggerens_10_aars_ipa.md)
+# Brew 12: [Hjemmebryggerens 10 aars IPA](../brews/hjemmebryggerens_10_aars_ipa.md)
 ```
 Brew Master: Dennis
 Date: 20230423

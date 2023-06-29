@@ -1,4 +1,4 @@
-# Brew 11: [Chinook smash IPA](../brews/chinook_smash_ipa.md)
+# Brew 13: [Chinook smash IPA](../brews/chinook_smash_ipa.md)
 ```
 Brew Master: Dennis
 Date: 20230610
@@ -36,3 +36,4 @@ Music:
 Notes:
   There is a problem with the temp while mashing, causing the kettle to continue heating. This resulted in the first 30 mins starting at 66c and ending at 72c. Then stoppede the timer / heater and mashed "manually". Will try with both the kettle insert and the BIAB next time.
   I went with hopping without bags this time. It made the finished volume a bit lower, since the free flowing hopps swallowed up a bit of water in the end.
+  Finished fermenting 20230624 - Which is a fermentation time of about 2 weeks, which is suprising. Will do an FG when bottling
