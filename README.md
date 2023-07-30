@@ -85,3 +85,7 @@ Mashing - 16 litres
 | 11 | 18 |
 | 10 | 19 |
 
+### Rehydration:
+Rehydrate the yeast before adding it to the fermenter:
+Boil some water, wait until it is back down to 35 C. Pour 10 * the weight of the yeast (11.5g) in a jar. Pour the yeast in the water, wait 15 mins, swirl the jar, wait another 5 mins and make sure the yeast and the wort is no more than 10 c from each other.
+

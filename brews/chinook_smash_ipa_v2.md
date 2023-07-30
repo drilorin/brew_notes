@@ -13,7 +13,7 @@ Hopps:
   - Chinook 15g - @5 mins
 
 Yeast:
-  - White Labs WLP670 American Farmhouse Ale Blend
+  - SafAle - S-04
 
 Stats:
  - Mashing volume: 16 litre
@@ -34,3 +34,4 @@ Notes:
   Changed the amount of bitter hopps from last batch, since it was "VERY" bitter. Also changed so the total amount is exactly 50g and leaving out the dry hopps addition.
   Also changed the yeast type to S-04 which I had in stock
   The grist was changed to Weyermann instead of Maris Otter because of stock issues with my supplier
+  Will ferment under preassure using a spunding valve
