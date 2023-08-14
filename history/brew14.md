@@ -22,14 +22,14 @@ Music:
 ```
 
 ```
-Packaging: 
-  - Started:
-  - Ended: 
-FG: 
+Packaging: 20230813
+  - Started: 21:00
+  - Ended: 21:30
+FG: 1.010
 Alcohol %: (OG - FG) * 131.25
-Bottles: 
-Litre:
-Taste: 
+Bottles: 1 X 8 litre keg
+Litre: 8l - the beer was sampled a lot the night before, so I think the final product was around 9½ litres
+Taste: Mild, round, with a bit of bitter ending.
 Music:
 ```
 
@@ -37,3 +37,5 @@ Notes:
   Tried this run with the raised sides from the mashing inlay, but without the bottom in it. In that way, the BIAB didn't touch the bottom which, I believe, gave the false temperature readings.
   Adjusted the length of the hopps bags, to be much longer than usual in order for the hopps to fully expand. I plan on squeeze them a bit when the boiling is complete.
   I squeezed the BIAB a great deal, after mashing, instead of doing a sparge cycle.
+  Packaging the beer went quite well. I cleaned the keg with starsan and forced some starsan through the hose I would use for transferring the finished beer. Flushed the keg with CO2 and made ready.
+  Then I fed beer through the beer out dip tupe, which has a little filter at the end. This resulted in a lot of gunk being stuck inside the filter, so that was bad. Next time I will fill it with the Co2 port instead.
