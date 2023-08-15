@@ -26,7 +26,7 @@ Packaging: 20230813
   - Started: 21:00
   - Ended: 21:30
 FG: 1.010
-Alcohol %: (OG - FG) * 131.25
+Alcohol %: (1.070 - 1.010) * 131.25 | =~ 7.8% ABV
 Bottles: 1 X 8 litre keg
 Litre: 8l - the beer was sampled a lot the night before, so I think the final product was around 9½ litres
 Taste: Mild, round, with a bit of bitter ending.
