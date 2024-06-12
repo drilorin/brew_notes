@@ -1,8 +1,5 @@
 # Chinook smash IPA V4
 
-Water treatment:
-  - Ascorbic acid 1g - @15 mins
-
 Fermentables: 
   - Pale Ale - Castle Malting - 4000g
 
