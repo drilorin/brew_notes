@@ -5,7 +5,7 @@ Date: 20240612
 
 Time:
   - Started: 18:15
-  - Ended:
+  - Ended: 21:40
 
 Gravity readings:
   - After mash: 1054
