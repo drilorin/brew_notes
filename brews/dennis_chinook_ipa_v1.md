@@ -22,9 +22,9 @@ Stats:
  - Mashing volume: 16 litre
  - Bitterness: 94 IBU
  - EBC: Unknown
- - Alcohol: 6.3%
+ - Alcohol: 6.8%
  - OG: 1,064
- - FG: 1,016
+ - FG: 1,012
  - Mashing temp: 66 C
  - Mashing period: 60 mins
  - Boiling period: 60 mins
