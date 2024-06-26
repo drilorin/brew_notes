@@ -1,4 +1,4 @@
-# Brew 15: [Chinook smash IPA](../brews/chinook_smash_ipa_v4.md)
+# Brew 16: [Chinook smash IPA](../brews/chinook_smash_ipa_v4.md)
 ```
 Brew Master: Dennis
 Date: 20240612
@@ -25,14 +25,15 @@ Music:
 Packaging:
   - Started:
   - Ended:
-FG:
-Alcohol %: (1.070 - 1.010) * 131.25 | =~ 7.8% ABV
+FG: 1012
+Alcohol %: (1.064 - 1.012) * 131.25 | =~ 6.8% ABV
 Bottles:
 Litre:
 Taste:
 Music:
-```
 
+```
 Notes:
   It seems the change in hopp amounts in the different time windows have made the finished product a bit more sweet and not so bitter.
+  The finished beer was quite a lot sweeter, brought the floral parts of the chinook hobs forward in the taste
 ```
