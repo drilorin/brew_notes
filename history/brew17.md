@@ -1,4 +1,4 @@
-# Brew 17: [Dennis chinook IPA V1](../brews/chinook_smash_ipa_v4.md)
+# Brew 17: [Dennis chinook IPA V1](../brews/dennis_chinook_ipa_v1.md)
 ```
 Brew Master: Dennis
 Date: 
