@@ -12,6 +12,10 @@ In the [history](history) I will keep a record of all the brews
  - Pump: Brewolution TL-B08H-12-0703-W
  - Cooler: Plate chiller - Maltbazaren 12 plates
 
+## Brew setup pr 20250604
+
+ - Brewer: Brewster Dominator 40
+ - Cooler: Plate chiller - Maltbazaren 12 plates
 
 ## Brewchart
 ```mermaid
@@ -48,6 +52,31 @@ flowchart TD
   - Take an OG measurement
   - Add yeast
   - Add Acid SAN water to the fermenter-top
+
+## Brewing process notes per 20150604
+
+  - Clean the tank and run cleaning through the pump and hoses, including the cooler
+  - Fill up tank with mash inlay and 16 litres of water
+  - Heat to [Mashing temp]
+  - Prepare 115 g boiling water for rehydrating of yeast
+  - Add brew bag and add Barley and keep on [Mashing temp] for [Mashing period] / stir well, start the pump and circulate at 40% in the mashing period
+  - Remove brew bag, squeeze it good and adjust to boiling temp for [Boiling period]
+  - Prepare hops for taste / aroma hopping and add them at appropriate times - don't use bags, since we are doing whirlpool in the end
+  - When rehydrating water is at 35 C, pour in the yeast and stir it gently after 15 mins - more notes in the bottom
+  - Prepare fermenting tanks, cleaning everything
+  - With 15 mins left of boiling
+    - Attach the cooler to the outpump
+    - pump wort through the cooler in order to clean it. Expose of the first 1 DL
+  - Then run 2-3 mins at 100% through the cooler and back into the the wort
+  - When boiling is complete:
+    - Start water flow for the cooler at maximum power and run wort through the cooler and back into the brewer until temp it 24-26 C
+    - Stop the waterflow to the cooler
+    - Take an OG measurement
+    - Move the out hose of the cooler into the fermentor
+    - Add yeast
+    - Add spunding valve
+    - Start automation in fermentor chamber
+
 
 ## Bottling process notes:
   - Clean a new fermenter / fermenting bucket, preferrebly with a valve
