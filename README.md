@@ -55,6 +55,7 @@ flowchart TD
 
 ## Brewing process notes per 20150604
 
+  - Prepare Tuya with the sequence for the mashing and boiling
   - Clean the tank and run cleaning through the pump and hoses, including the cooler
   - Fill up tank with mash inlay and 16 litres of water
   - Heat to [Mashing temp]
