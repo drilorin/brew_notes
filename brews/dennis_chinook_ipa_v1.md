@@ -12,11 +12,11 @@ Hopps:
   - Chinook 25g - @60 mins
     https://humlecentralen.dk/shop/7-humle/7207-chinook-2023-pellets-alpha-119-100-g/
   - Chinook 25g - @30 mins
-  - Irish Moss 7g - @15 mins
+  - Irish Moss 7g - @30 mins
   - Chinook 25g - @5 mins
 
 Yeast:
-  - Kveik Ale yeast
+  - SafeAle T58
 
 Stats:
  - Mashing volume: 16 litre

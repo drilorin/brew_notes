@@ -67,7 +67,7 @@ flowchart TD
   - Prepare fermenting tanks, cleaning everything
   - With 15 mins left of boiling
     - Attach the cooler to the outpump
-    - pump wort through the cooler in order to clean it. Expose of the first 1 DL
+    - pump wort through the cooler in order to clean it. Dispose of the first 1 DL
   - Then run 2-3 mins at 100% through the cooler and back into the the wort
   - When boiling is complete:
     - Start water flow for the cooler at maximum power and run wort through the cooler and back into the brewer until temp it 24-26 C
