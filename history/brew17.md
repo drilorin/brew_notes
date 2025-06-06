@@ -5,7 +5,7 @@ Date: 20150606
 
 Time:
   - Started: 11:15
-  - Ended:
+  - Ended: 15:00
 
 Gravity readings:
   - OG: 1068
@@ -46,9 +46,12 @@ Can quite precisely measure the volume of the mash so added the lid when it reac
 
 The cooling flow through the plate cooler was really slow, the pump had to work hard to get just a steady flow. Maybe because of the low volume - showing 6-7l - Should have considered added more water to the boil fase
 
-The punp wasn't able to pump the wort out!
+The punp wasn't able to pump the wort out! It was actually the grate in the bottom which became cogged up.
 
 Decided to add 4 l of clear water, from the tap, just to get the wort diluted and pumped out of the boiler - will be surprised if this brew gets any good ;)
 
-So a lot of learning, will be interesting to see if this brew gets any good :)
+So a lot of learning:
+  - Add much more water, perhaps 4-5 l to start with
+  - Don't add hopps without bag / spider
+  - Consider brewing bigger batches, currently aiming for 10 l finished product, but could be good for the boiler to have a bit more volume than that. The All rounder fermenter is 30l anyways, so should be able to make that work.
 ```

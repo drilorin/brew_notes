@@ -1,0 +1,37 @@
+# Dennis chinook IPA V2
+
+Fermentables: 
+  - Pale Ale - Castle Malting - 5250g
+    https://humlecentralen.dk/shop/6-malt/2734-pale-ale-malt-weyermann-pris-pr-100-g-ebc-55---75/
+  - Carapils, Weyermann - 450g
+    https://humlecentralen.dk/shop/34-karamel-malt/217-carapils-weyermann-ebc-25---65-pris-pr-100-g-106715/
+  - Cara gold Malt - 300g
+    https://humlecentralen.dk/shop/6-malt/701-cara-gold-malt-castle-malting-group-ebc-120-pris-pr-100-g-/
+
+Hopps:
+  - Chinook 33g - @60 mins
+    https://humlecentralen.dk/shop/7-humle/7207-chinook-2023-pellets-alpha-119-100-g/
+  - Chinook 33g - @30 mins
+  - Irish Moss 7g - @30 mins
+  - Chinook 33g - @5 mins
+
+Yeast:
+  - SafeAle T58
+
+Stats:
+ - Mashing volume: 30 litre
+ - Bitterness: 94 IBU
+ - EBC: Unknown
+ - Alcohol: 6.8%
+ - OG: 1,064
+ - FG: 1,012
+ - Mashing temp: 66 C
+ - Mashing period: 60 mins
+ - Boiling period: 60 mins
+ - Sparge temp: 76 C
+ - Sparge period: 10 mins
+ - Co2 - 6.5g sugar per liter
+ - Fermentation temperature: 20 C
+
+Notes:
+  - Updated from v1 by adding 50% of everything as well as increasing the water level
